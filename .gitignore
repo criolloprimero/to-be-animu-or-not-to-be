@@ -6,3 +6,6 @@
 
 archive/
 test.txt
+grid/
+
+*.h5
